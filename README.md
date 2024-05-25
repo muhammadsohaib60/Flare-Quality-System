@@ -1,2 +1,1 @@
-# Flare-Quality-System
-This project aims to enhance the monitoring process of operation flare stacks 
+This project aims to enhance the monitoring process of operation flare stacks by implementing computer vision algorithms for the Quality Control of flare stack video inspections. computer vision algorithms will be developed to extract measure of flare and smoke and used them to classify the quality of the flare into "Good quality" or "Bad quality," or employ multiclass classification based on specific environmental conditions.
